@@ -10,7 +10,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "swift_tsao",
+            name: "swift-tsao",
             targets: ["swift_tsao"]
         ),
     ],
