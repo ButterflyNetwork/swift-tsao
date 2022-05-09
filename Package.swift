@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "swift_tsao",
-            path: "./Sources",
+            path: "./Sources"
         ),
     ]
 )
